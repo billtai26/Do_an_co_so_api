@@ -1,0 +1,13 @@
+{
+  "name": "Quan_Ly_Task_API",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "anhtaidev quan ly task api",
+  "main": "src/server.js",
+  "author": "anh tai ",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
