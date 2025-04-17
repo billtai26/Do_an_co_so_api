@@ -7,7 +7,7 @@ import { StatusCodes } from 'http-status-codes'
 
 const createNew = async (req, res, next) => {
   try {
-    // console.log('req.body: ', req.body) 
+    // console.log('req.body: ', req.body)
 
     // Điều hướng dữ liệu sang tầng Service
 
